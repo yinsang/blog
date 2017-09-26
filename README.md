@@ -1,4 +1,4 @@
-*** html
+* html
 *** http
 # 工作业务
 一开始听说用issue写blog我也是拒绝的，就鼓捣了一堆hexo。
